@@ -1,0 +1,5 @@
+maven:
+  ls-example:
+    group-id: gorobets
+    artifact-id: ls-example
+
